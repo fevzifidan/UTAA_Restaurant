@@ -14,6 +14,8 @@ The project has been developed in Python and mainly uses OpenCV.
 ## Screenshots
 ![Sample Screenshot 1](https://github.com/fevzifidan/UTAA_Restaurant/blob/main/Screenshots/utaa_restaurant_ss_1.png)
 
+<img src="https://github.com/fevzifidan/UTAA_Restaurant/blob/main/Screenshots/utaa_restaurant_ss_1.png" alt="Sample Screenshot 1" width="487" height="414">
+
 > [!Note]
 > The live camera image (including the focus point) is intentionally censored, the actual image (including the focus point) is visible during program execution.
 
