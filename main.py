@@ -6,6 +6,7 @@ This project has been developed and tested for
 try:
     import cv2
     import time
+    from os import path
     from package.detector import Detector
     from package.menu import Menu
     from package.order import Order
@@ -92,8 +93,8 @@ class Main:
             pass
 
 if __name__ == "__main__":
-    menu_address = r"D:\Projeler\UTAA_Restaurant\env\Images"
-    color_address = r"D:\Projeler\UTAA_Restaurant\env\colors.json"
+    menu_address = path.join(path.dirname(__file__), "Menu")
+    color_address = path.join(path.dirname(__file__), "colors.json")
     main = Main(menu_address=menu_address, color_address = color_address, cameraIndex = 0, tk_messages = True)
     main.initialize()
 
