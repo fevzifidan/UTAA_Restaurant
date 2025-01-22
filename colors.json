@@ -1,0 +1,51 @@
+{
+    "Black": {
+        "lowerLimit": 0,
+        "upperLimit": 10
+    },
+
+    "White": {
+        "lowerLimit": 0,
+        "upperLimit": 50
+    },
+
+    "Red_1": {
+        "lowerLimit": 0,
+        "upperLimit": 10
+    },
+
+    "Red_2": {
+        "lowerLimit": 175,
+        "upperLimit": 180
+    },
+
+    "Orange": {
+        "lowerLimit": 10,
+        "upperLimit": 16
+    },
+
+    "Yellow": {
+        "lowerLimit": 16,
+        "upperLimit": 35
+    },
+
+    "Green": {
+        "lowerLimit": 35,
+        "upperLimit": 85
+    },
+
+    "Blue": {
+        "lowerLimit": 85,
+        "upperLimit": 130
+    },
+
+    "Purple": {
+        "lowerLimit": 135,
+        "upperLimit": 145
+    },
+
+    "Pink": {
+        "lowerLimit": 145,
+        "upperLimit": 170
+    }
+}
