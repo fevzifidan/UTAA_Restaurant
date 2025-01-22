@@ -11,5 +11,8 @@ The project has been developed in Python and mainly uses OpenCV.
 ## Supported Languages
 - English
 
+## Development Purpose and Use
+This project was developed for educational purposes only and does not have any commercial purpose.
+
 ## About the Developer
 - Fevzi FİDAN
