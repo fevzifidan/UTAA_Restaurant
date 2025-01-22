@@ -12,7 +12,7 @@ The project has been developed in Python and mainly uses OpenCV.
 - English
 
 ## Screenshots
-
+![Sample Screenshot 1](https://github.com/fevzifidan/UTAA_Restaurant/blob/main/Screenshots/utaa_restaurant_ss_1.png)
 
 ## Development Purpose and Use
 This project was developed for educational purposes only and does not have any commercial purpose.
