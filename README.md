@@ -1,4 +1,4 @@
-# $${\color{blue}UTAA \space Restaurant}$$
+# $${\color{#031273}UTAA \space Restaurant}$$
 It is a real-time ordering application for a restaurant based on shape and color detection with OpenCV.
 
 It allows you to order with lego shapes with various color and shape combinations. The lego shape shown to the camera is compared with the predefined lego shapes in the Menu directory. If the lego shown to the camera is available in the menu, the corresponding product can be added to the order list.
