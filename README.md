@@ -11,6 +11,15 @@ The project has been developed in Python and mainly uses OpenCV.
 ## Supported Languages
 - English
 
+## Customization
+To remove the current limitations of the program and customize the way it works, you can update the **Main** and **Scan** classes according to your own needs.
+
+In addition, to add new products to the menu or to change the legos of already added products, all you need to do is to add the .png images of your own lego designs to the **Menu** directory.
+
+>[!Important]
+>The lego shape corresponding to a product must have only one color, i.e. the shape must not consist of lego pieces with different colors.
+>You can check the Menu directory for the naming of the files and examples.
+
 ## Screenshots
 ![Sample Screenshot 1](https://github.com/fevzifidan/UTAA_Restaurant/blob/main/Screenshots/utaa_restaurant_ss_1.png)
 
