@@ -1,8 +1,3 @@
-r"""
-This project has been developed and tested for
-'SENG 211 - Object Oriented Programming' course.
-"""
-
 try:
     import cv2
     import time
