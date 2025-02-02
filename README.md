@@ -29,5 +29,12 @@ In addition, to add new products to the menu or to change the legos of already a
 ## Development Purpose and Use
 This project was developed for educational purposes only and does not have any commercial purpose.
 
+## License and Usage Information
+This project utilizes OpenCV. Please ensure you adhere to the following guidelines when using this project:
+
+- **OpenCV License Compliance**: The OpenCV library included in this project is licensed under the Apache-2.0 License. You must comply with the terms of this license when using the OpenCV components.
+
+This project, in its current state, has been developed solely for educational purposes and as a course project. It is intended to serve as a learning tool and an example of object-oriented programming concept. The project is not designed for professional use and commercial purposes. It should not be utilized for any commercial purposes. Users are allowed to study, modify, and share the project for non-commercial, educational purposes only.
+
 ## About the Developer
 - Fevzi FİDAN
