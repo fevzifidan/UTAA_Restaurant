@@ -24,7 +24,7 @@ In addition, to add new products to the menu or to change the legos of already a
 ![Sample Screenshot 1](https://github.com/fevzifidan/UTAA_Restaurant/blob/main/Screenshots/utaa_restaurant_ss_1.png)
 
 > [!Note]
-> The live camera image (including the focus point) is intentionally censored, the actual image (including the focus point) is visible during program execution.
+> The live camera image is intentionally censored, the actual image (including the focus point) is visible during program execution.
 
 ## Development Purpose and Use
 This project was developed for educational purposes only and does not have any commercial purpose.
